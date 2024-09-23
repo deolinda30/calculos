@@ -11,6 +11,13 @@ namespace Calculos
     /// </summary>
     internal class aritmética
     {
+        /// <summary>
+        /// Operação Soma
+        /// </summary>
+        
+        /// <returns>
+        /// Retorna a soma de dois números.
+        /// </returns>
         public int Somar(int x, int y)
         {
             return x + y;
